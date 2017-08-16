@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ed792bb-588a-46a3-9370-90737d1d6272" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloniuke/src/zuoshen/four/MaxTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloniuke/src/zuoshen/five/ClearValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloniuke/src/zuoshen/five/Common.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloniuke/src/zuoshen/five/Divide.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloniuke/src/zuoshen/five/KInverse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloniuke/src/zuoshen/five/ListNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloniuke/src/zuoshen/five/Remove.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,13 +19,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MaxTree.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/four/MaxTree.java">
+      <file leaf-file-name="ClearValue.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/five/ClearValue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            <state relative-caret-position="306">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
               <folding>
-                <element signature="e#225#234#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,6 +89,12 @@
         <option value="$PROJECT_DIR$/helloniuke/src/zuoshen/four/TwoStacks.java" />
         <option value="$PROJECT_DIR$/helloniuke/src/zuoshen/four/SlideWindow.java" />
         <option value="$PROJECT_DIR$/helloniuke/src/zuoshen/four/MaxTree.java" />
+        <option value="$PROJECT_DIR$/helloniuke/src/zuoshen/five/ListNode.java" />
+        <option value="$PROJECT_DIR$/helloniuke/src/zuoshen/five/Remove.java" />
+        <option value="$PROJECT_DIR$/helloniuke/src/zuoshen/five/Divide.java" />
+        <option value="$PROJECT_DIR$/helloniuke/src/zuoshen/five/Common.java" />
+        <option value="$PROJECT_DIR$/helloniuke/src/zuoshen/five/KInverse.java" />
+        <option value="$PROJECT_DIR$/helloniuke/src/zuoshen/five/ClearValue.java" />
       </list>
     </option>
   </component>
@@ -128,12 +139,6 @@
               <item name="HelloIntelliJ" type="b2602c69:ProjectViewProjectNode" />
               <item name="helloniuke" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="wangyibishi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloIntelliJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloniuke" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="zuoshen" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -141,22 +146,7 @@
               <item name="helloniuke" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="zuoshen" type="462c0819:PsiDirectoryNode" />
-              <item name="four" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloIntelliJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloniuke" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="zuoshen" type="462c0819:PsiDirectoryNode" />
-              <item name="one01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloIntelliJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloniuke" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="zuoshen" type="462c0819:PsiDirectoryNode" />
-              <item name="one01" type="462c0819:PsiDirectoryNode" />
-              <item name="TreePrinter.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="five" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -458,48 +448,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/four/StackReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/four/TwoStacks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/four/SlideWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/two/Gap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloniuke/src/wangyibishi/ti0/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/helloniuke/src/wangyibishi/ti1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -637,6 +585,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="107" column="1" lean-forward="false" selection-start-line="107" selection-start-column="1" selection-end-line="107" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -791,10 +740,10 @@
         <state relative-caret-position="119">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
-            <element signature="e#650#651#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="false" />
+            <element signature="e#685#686#0" expanded="false" />
+            <element signature="e#709#710#0" expanded="false" />
+            <element signature="e#749#750#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -812,7 +761,7 @@
         <state relative-caret-position="85">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="13" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -822,17 +771,72 @@
         <state relative-caret-position="170">
           <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/four/MaxTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        <state relative-caret-position="238">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
-            <element signature="e#225#234#0" expanded="true" />
+            <element signature="e#225#234#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/five/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/five/Remove.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/five/Divide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/five/Common.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/five/KInverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/five/ClearValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
