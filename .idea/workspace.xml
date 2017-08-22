@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ed792bb-588a-46a3-9370-90737d1d6272" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloniuke/src/lianjiabishi/bukao/one/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloniuke/src/lianjiabishi/bukao/three/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloniuke/src/lianjiabishi/bukao/two/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloniuke/src/zuoshen/dp/Backpack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloniuke/src/zuoshen/dp/Exchange.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloniuke/src/zuoshen/dp/GoUpstairs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloniuke/src/zuoshen/dp/LCS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloniuke/src/zuoshen/dp/LongestIncreasingSubsequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloniuke/src/zuoshen/dp/MinCost.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloniuke/src/zuoshen/dp/MinimumPath.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloniuke/src/zuoshen/Intelligence/HorseRace.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloniuke/src/zuoshen/Intelligence/Paint.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MinCost.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/dp/MinCost.java">
+      <file leaf-file-name="HorseRace.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/Intelligence/HorseRace.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            <state relative-caret-position="408">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -53,8 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/helloniuke/src/zuoshen/two/HeapSort.java" />
-        <option value="$PROJECT_DIR$/helloniuke/src/zuoshen/two/Checker.java" />
         <option value="$PROJECT_DIR$/helloniuke/src/zuoshen/two/Merge.java" />
         <option value="$PROJECT_DIR$/helloniuke/src/zuoshen/two/Finder.java" />
         <option value="$PROJECT_DIR$/helloniuke/src/zuoshen/two/Subsequence.java" />
@@ -104,6 +94,8 @@
         <option value="$PROJECT_DIR$/helloniuke/src/zuoshen/dp/LCS.java" />
         <option value="$PROJECT_DIR$/helloniuke/src/zuoshen/dp/Backpack.java" />
         <option value="$PROJECT_DIR$/helloniuke/src/zuoshen/dp/MinCost.java" />
+        <option value="$PROJECT_DIR$/helloniuke/src/zuoshen/Intelligence/Paint.java" />
+        <option value="$PROJECT_DIR$/helloniuke/src/zuoshen/Intelligence/HorseRace.java" />
       </list>
     </option>
   </component>
@@ -155,7 +147,7 @@
               <item name="helloniuke" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="zuoshen" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="Intelligence" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -457,20 +449,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/two/Subsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/two/Gap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/three/IdenticalTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -812,8 +790,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/dp/MinCost.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/Intelligence/Paint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloniuke/src/zuoshen/Intelligence/HorseRace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
